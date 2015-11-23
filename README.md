@@ -31,4 +31,4 @@
 - utils.py
 	工具相关
 
-> 所以大概有article/admin/notice/question这四个模块相应的model层和controller层要写，没人选一个好了QWQ。
+> 所以大概有article/admin/notice/question这四个模块相应的model层和controller层要写，每人选一个好了QWQ。
