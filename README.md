@@ -1,33 +1,34 @@
-大部分代码和news中相似
+**大部分代码和news中相似**
 
 youngVoice 文件夹里面是代码
 建立数据库的时候直接source youngVoice.sql
 
-youngVoice文件夹里面的内容
-model 数据库操作:
-admin.py
+## youngVoice文件夹里面的内容
+
+### model 数据库操作:
+- admin.py
 	和管理员相关的数据库操作
-article.py
+- article.py
 	青听和青说
-notice.py
+- notice.py
 	公告
-question.py
+- question.py
  	青问/青答
 
-controller 视图函数相关：
-index.py
+### controller 视图函数相关：
+- index.py
 	首页
-article.py
+- article.py
 	青听和青说
-notice.py
+- notice.py
 	公告
-question.py
+- question.py
 	青问/青答
-admin.py
+- admin.py
 	后台相关
-log.py
+- log.py
 	日志记录
-utils.py
+- utils.py
 	工具相关
 
 
