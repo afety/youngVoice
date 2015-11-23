@@ -1,7 +1,7 @@
-**大部分代码和news中相似**
+## 大部分代码和news中相似
 
-youngVoice 文件夹里面是代码
-建立数据库的时候直接source youngVoice.sql
+1. youngVoice 文件夹里面是代码
+2. 建立数据库的时候直接source youngVoice.sql
 
 ## youngVoice文件夹里面的内容
 
